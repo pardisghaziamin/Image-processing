@@ -46,10 +46,14 @@ This  is implementation of **CDF** on the image:
 
 > notice that after this implementation,you must normalize your image.
 > `
+> 
 > I4=(I4/(max(max(I4))))*255;`
 
 
 
 ![
 ](https://lh3.googleusercontent.com/gT4i-nDwpS6fejutrzDlAycuymTVYdICSQa279fBxy2_M8Qz4uVWiJ9i3_t9SYoivBPTsnMVqN4 "imp")
+
+
 this is **result** that you can see above
+that is helping us to  **extend histogram**.
