@@ -47,7 +47,7 @@ This  is implementation of **CDF** on the image:
 > notice that after this implementation,you must normalize your image.
 > `
 > 
-> I4=(I4/(max(max(I4))))*255;`
+> `I4=(I4/(max(max(I4))))*255;`
 
 
 
